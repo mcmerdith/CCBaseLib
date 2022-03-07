@@ -2,6 +2,9 @@
 <!-- Komodo Project File - DO NOT EDIT -->
 <project id="7cb2e6ed-e52f-471f-a7bf-7ba2291b1033" kpf_version="5" name="CCBaseLib.komodoproject">
 <preference-set idref="7cb2e6ed-e52f-471f-a7bf-7ba2291b1033" id="project" preftype="project">
+<preference-set id="format-on-save-TypeScript">
+  <boolean id="{466cb9a4-5d74-46b9-8fdf-eacfc6faf260}">1</boolean>
+</preference-set>
   <long id="prefs_version">1</long>
 </preference-set>
 </project>
